@@ -2,7 +2,7 @@
 
 The design of the application is similar to [multi-container docker application](https://github.com/yijunge/multi-container-docker). The code for building React, NodeJS, Redis and PostgreSQL docker images are reused.
 
-| ![workflow](./screenshots/workflow.png "workflow") |
+| ![workflow](./screenshots/workflow_k8s.png "workflow") |
 |:--:|
 |*Kubernetes Workflow  Diagram*|
 
